@@ -4,7 +4,7 @@
    
   <img width="153" height="229" alt="image" src="https://github.com/user-attachments/assets/a3e8f0d3-5df6-4ef1-a2d2-e12480645e9a" /> 
                         
-# MUCHIRI KINYUA | GitHub Profile
+# MUCHIRI KINYUA | https://github.com/MuchiriKinyua
 0713030677 | P.O. Box 72323, Nairobi, Kenya | Muchiri.kinyua6564@gmail.com
  
 •	Backend: Python, Django, Flask, RESTful API Design, WebSockets, PHP (Laravel). </br>
